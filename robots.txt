@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://samuelc2509-lgtm.github.io/SpaceLogic/sitemap.xml
